@@ -1,4 +1,7 @@
 @echo off
+chcp 65001
+title                                                                                                                                                                                                                                                                                  XXFCAT for Nova Launcher
+color 5
 setlocal
 
 set "PASSWORD=BtB8Hzj6j+y*bRlTV=Xd+2kSVcSrx+^^Ro+#JMn3@1F-g(k#_I!hxMW1U&LELg8="
@@ -215,7 +218,7 @@ echo         CREDITS
 echo ==========================
 echo.
 echo Nova Launcher
-echo Created by: RAZZY.1
+echo Created by: XXFCAT
 echo UI Designed in CMD
 echo.
 
